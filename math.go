@@ -9,3 +9,16 @@ func main() {
 func Sum(a int, b int) int {
 	return a + b
 }
+func Sum0(a int, b int) int {
+	return a + b
+}
+
+func Sum1(a int, b int) int {
+	return a + b
+}
+func Sum2(a int, b int) int {
+	return a + b
+}
+func Sum3(a int, b int) int {
+	return a + b
+}
