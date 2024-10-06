@@ -22,9 +22,3 @@ func Sum2(a int, b int) int {
 func Sum3(a int, b int) int {
 	return a + b
 }
-func Sum4(a int, b int) int {
-	return a + b
-}
-func Sum5(a int, b int) int {
-	return a + b
-}
